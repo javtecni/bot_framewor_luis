@@ -15,4 +15,4 @@ Client_secret
 Grant_type
 scope
 
-Send chatMessage in a channel or a chat - Microsoft Graph v1.0 | Microsoft Learn
+https://learn.microsoft.com/en-us/graph/api/chatmessage-post?view=graph-rest-1.0&tabs=http
