@@ -1,0 +1,18 @@
+GET https://graph.microsoft.com/v1.0/teams/d52785e5-bbb2-4e64-9fba-e4ee92e7a772/channels/19%3A31dE8jD0ThCt4D21URf4SLzxH8jX4UrximNQsLvfmSk1%40thread.tacv2/messages
+
+Content-type
+{
+“body”: {
+“content”: “Hello”
+}
+}
+
+Post https://login.microsoftonline.com/511ce045-2e79-4f6a-b955-606980ab7992/oauth2/v2.0/token
+
+Form encode body
+Client_id
+Client_secret
+Grant_type
+scope
+
+Send chatMessage in a channel or a chat - Microsoft Graph v1.0 | Microsoft Learn
